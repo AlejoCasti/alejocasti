@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="./Negro Rosa Error Informático Videojuego Vídeo Portada de Facebook.gif.gif">
+<img src="image.gif">
 <!--
 **AlejoCasti/alejocasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
