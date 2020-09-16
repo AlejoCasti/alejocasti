@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/AlejoCasti/alejocasti/raw/master/image.gif">
+<img src="https://github.com/AlejoCasti/alejocasti/raw/master/backgroundImage.png" width="820" height="150">
 <!--
 **AlejoCasti/alejocasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
